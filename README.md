@@ -1,4 +1,4 @@
-[![GIF](./Greetings.gif)](https://github.com/mehmetalicakir)
+[![GIF](./animated.gif)](https://github.com/mehmetalicakir)
 
 ## You can find and contact me from these accounts!
 <div align="left">
