@@ -1,4 +1,5 @@
-[![GIF](./animated.gif)](https://github.com/mehmetalicakir)
+![GIF](./greetings_dark.gif#gh-dark-mode-only)
+![GIF](./greetings_light.gif#gh-light-mode-only)
 
 ## You can find and contact me from these accounts!
 <div align="left">
