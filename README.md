@@ -28,8 +28,8 @@
 ---
 <br>
 
+[![Mehmet Ali ÇAKIR's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehmetalicakir&theme=react-dark&hide_border=true)](https://github.com/mehmetalicakir)
 
-[![Mehmet Ali ÇAKIR's github activity graph](https://activity-graph.cyclic.app/graph?username=mehmetalicakir&theme=react-dark&hide_border=true)](https://github.com/mehmetalicakir)
 
 ---
 
